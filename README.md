@@ -39,3 +39,5 @@ Here are 4 steps to build executable:
 3. npm run dump streamlit_app -- -r requirements.txt => **create a build directory**
   * Note: this command creates ./build directory include streamlit_app directory, site-package-snapshot.tar.gz
 4. npm run dist => ** create a dist directory **
+
+
