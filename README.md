@@ -22,4 +22,18 @@ Files explanation:
 
 ![streamlit](https://github.com/RickyChenTaiwan/serverless-streamlit/assets/42162312/a8aa8202-cdcb-457e-84ce-6888893cd8b9)
 
+Here are 4 steps to build executable:
+1. Create package.json and requirements.txt files
+package.json:
+* stlite: Serverless Streamlit app platform
+  license: Apache-2.0 license
+  version: 0.36.0
+* electron-builder: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+  license: MIT license
+  version: 24.6.3
+requirements.txt:
+* python packages needed for this project
 
+3.
+4.
+5.
