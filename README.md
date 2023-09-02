@@ -10,6 +10,7 @@ Folder structure:
 
 Files explanation:
 
-* package.jsaon: 
-* package.jsaon: 
-* package.jsaon: 
+* package.jsaon: It's a setting file for project. It provides a simplified way to manage a project's dependencies and metadata.
+* package.jsaon: python packages needed for this project.
+* package.jsaon: streamlit python code.
+  
