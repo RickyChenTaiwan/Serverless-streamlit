@@ -1,2 +1,2 @@
 # serverless-streamlit
-Converting streamlit web app to Executable(Desktop application)
+Converting streamlit web app to Executable (Pure Desktop application)
