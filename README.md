@@ -34,6 +34,8 @@ Here are 4 steps to build executable:
 * requirements.txt:
   * python packages needed for this project
 
-3.
+2. npm install => **create a node_modules directory:**
+  * Note: this command installs packages and dependency.
+3. npm run dump streamlit_app -- -r requirements.txt => create a build directory
+
 4.
-5.
