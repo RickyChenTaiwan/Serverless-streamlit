@@ -16,6 +16,9 @@ Files explanation:
 
   
 * requirements.txt: python packages needed for this project.
+
+![requirements](https://github.com/RickyChenTaiwan/serverless-streamlit/assets/42162312/eaece435-a318-43d4-bbf4-5697a18d5af2)
+
 * streamlit_app.py: streamlit python code.
 
 
