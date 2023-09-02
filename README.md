@@ -23,7 +23,7 @@ Files explanation:
 ![streamlit](https://github.com/RickyChenTaiwan/serverless-streamlit/assets/42162312/a8aa8202-cdcb-457e-84ce-6888893cd8b9)
 
 Here are 4 steps to build executable:
-1. Create package.json and requirements.txt files
+1. **Create package.json and requirements.txt files**
 * package.json:
   * stlite: Serverless Streamlit app platform <br />
     * license: Apache-2.0 license <br />
@@ -36,6 +36,6 @@ Here are 4 steps to build executable:
 
 2. npm install => **create a node_modules directory:**
   * Note: this command installs packages and dependency.
-3. npm run dump streamlit_app -- -r requirements.txt => create a build directory
+3. npm run dump streamlit_app -- -r requirements.txt => **create a build directory**
 
 4.
