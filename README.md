@@ -11,6 +11,10 @@ Folder structure:
 Files explanation:
 
 * package.jsaon: It's a setting file for project. It provides a simplified way to manage a project's dependencies and metadata.
+
+![package](https://github.com/RickyChenTaiwan/serverless-streamlit/assets/42162312/00443754-1285-45a0-80c6-6a3b01c74e0a)
+
+  
 * requirements.txt: python packages needed for this project.
 * streamlit_app.py: streamlit python code.
 
