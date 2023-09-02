@@ -11,6 +11,8 @@ Folder structure:
 Files explanation:
 
 * package.jsaon: It's a setting file for project. It provides a simplified way to manage a project's dependencies and metadata.
-* requirement.txt: python packages needed for this project.
+* requirements.txt: python packages needed for this project.
 * streamlit_app.py: streamlit python code.
-  
+
+
+
