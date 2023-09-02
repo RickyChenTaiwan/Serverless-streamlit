@@ -29,8 +29,8 @@ package.json:
   * license: Apache-2.0 license <br />
   * version: 0.36.0
 * electron-builder: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-  license: MIT license
-  version: 24.6.3
+  * license: MIT license
+  * version: 24.6.3
 requirements.txt:
 * python packages needed for this project
 
