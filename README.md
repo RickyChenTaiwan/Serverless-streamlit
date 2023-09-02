@@ -25,7 +25,7 @@ Files explanation:
 Here are 4 steps to build executable:
 1. Create package.json and requirements.txt files
 package.json:
-* stlite: Serverless Streamlit app platform
+* stlite: Serverless Streamlit app platform <br />
   license: Apache-2.0 license
   version: 0.36.0
 * electron-builder: Build cross-platform desktop apps with JavaScript, HTML, and CSS.
