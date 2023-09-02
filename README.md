@@ -10,6 +10,6 @@ Folder structure:
 
 Files explanation:
 
-"*" package.jsaon: 
-"*" package.jsaon: 
-"*" package.jsaon: 
+* package.jsaon: 
+* package.jsaon: 
+* package.jsaon: 
